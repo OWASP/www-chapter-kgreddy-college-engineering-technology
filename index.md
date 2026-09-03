@@ -1,7 +1,7 @@
 ---
 
 layout: col-sidebar
-title: OWASP KG Reddy College of Engineering and Technology - Hyderabad
+title: OWASP KG Reddy College of Engineering and Technology, Hyderabad
 tags: example-tag
 region: Asia
 country: India
