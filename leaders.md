@@ -1,3 +1,3 @@
 ### Leaders
-* [Leader One](mailto:leader.email@owasp.org)
-* [Leader Two](mailto:leader.email@owasp.org)
+* [Swapna Rani](mailto:swapna.rani@owasp.org)
+* [Jashanth Gonipati](mailto:jashanth.gonipati@owasp.org)
