@@ -1,10 +1,10 @@
 ---
 
 layout: col-sidebar
-title: OWASP [GROUPNAME]
+title: OWASP KG Reddy College of Engineering and Technology - Hyderabad
 tags: example-tag
-region: [:REGION]
-country: [:COUNTRY]
+region: Asia
+country: India
 meetup-group:
 
 ---
