@@ -7,6 +7,16 @@ country: India
 meetup-group:
 ---
 
+<div align="center">
+<img src="assets/images/kgrcet-logo.png" alt="KG Reddy College" height="120">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="assets/images/owasp-kgrcet-logo.png" alt="OWASP KGRCET" height="120">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="assets/images/cseh-logo.png" alt="CSEH Club" height="120">
+</div>
+
+<br>
+
 ## Welcome
 
 Welcome to the OWASP KG Reddy College of Engineering and Technology Student Chapter. The OWASP KGRCET Student Chapter connects students of KG Reddy College of Engineering and Technology with the global OWASP community and provides opportunities to learn, collaborate, and contribute to the field of application security.
