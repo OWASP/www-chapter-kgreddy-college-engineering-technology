@@ -8,11 +8,11 @@ meetup-group:
 ---
 
 <div align="center">
-<img src="assets/images/kgrcet-logo.png.png" alt="KG Reddy College" height="120">
+<img src="assets/images/kgrcet-logo.png" alt="KG Reddy College" height="120">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="assets/images/OWASP_black_logo.png" alt="OWASP KGRCET" height="120">
+<img src="assets/images/owasp-kgrcet-logo.png" alt="OWASP KGRCET" height="120">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="assets/images/cseh-logo.png.png" alt="CSEH Club" height="120">
+<img src="assets/images/cseh-logo.png" alt="CSEH Club" height="120">
 </div>
 
 <br>
